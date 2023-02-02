@@ -9,7 +9,7 @@ public class UserInputDemo {
          System.out.println("the value of x"+x);
          /*float y=sc.nextFloat();
          char z=sc.next().charAt(0);
-         //String name=sc.next();
+         String name=sc.next();
          String str=sc.nextLine();
          double d=sc.nextDouble();
          System.out.println("the value of x"+x);
