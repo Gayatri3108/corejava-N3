@@ -1,17 +1,17 @@
 package org.tnsif.client;
-import java.util.List;
+//import java.util.List;
 import java.util.Scanner;
 
 import org.tnsif.entity.Employee;
 import org.tnsif.service.EmployeeService;
-import org.tnsif.service.EmployeeServiceImpl;
+//import org.tnsif.service.EmployeeServiceImpl;
 
 //driver class
 public class Client {
 
 	public static void main(String[] args) {
 		int choice;
-		EmployeeService service=new EmployeeServiceImpl();
+		//EmployeeService service=new EmployeeServiceImpl();
 		Scanner sc=new Scanner(System.in);
 		do
 		{
